@@ -1,7 +1,8 @@
+sklearn
+ast
 pandas
-scikit-learn
 matplotlib
 seaborn
 numpy
 ipywidgets
-ipython
+IPython
